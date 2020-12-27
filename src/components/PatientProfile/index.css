@@ -1,0 +1,9 @@
+.back_link > .back_arrow,
+.back_text {
+  color: gray !important;
+}
+
+.back_link {
+  cursor: pointer;
+  outline: none;
+}
