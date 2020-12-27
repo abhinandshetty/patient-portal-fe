@@ -9,4 +9,4 @@ This project is created using create-react-app and uses Typescript.
 
 The application will run locally on port 3000.
 
-### The application is also hosted on Vercel and can be accessible through this URL : https://patient-portal-fe.vercel.app/
+### The application is also hosted on Vercel and can be accessed through this URL : https://patient-portal-fe.vercel.app/
